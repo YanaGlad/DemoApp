@@ -9,6 +9,7 @@ import android.media.MediaPlayer;
 import java.io.IOException;
 
 //Класс для подключения музыки в игру
+//Пример использования (BitmapLoader) : Media.Music stayInsideMusic = mainRunActivity.getMedia().setMusic("stayInside.mp3");
 public class Media {
     private AssetManager assetManager;
 

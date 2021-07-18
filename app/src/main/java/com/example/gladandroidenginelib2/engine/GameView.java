@@ -1,10 +1,10 @@
 package com.example.gladandroidenginelib2.engine;
 
 
-//Абстрактный класс GameView представляет текущий игровой кадр
 
 import com.example.gladandroidenginelib2.graphics.GamePaint;
 
+//Абстрактный класс GameView представляет текущий игровой кадр
 public abstract class GameView {
 
     private MainRunActivity mainRunActivity;

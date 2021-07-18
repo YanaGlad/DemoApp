@@ -19,12 +19,10 @@ public class GameItem implements Loopable {
 
     @Override
     public void repaint() {
-
     }
 
     @Override
     public void repaint(double speed, double jumSpeed) {
-
     }
 
     public int getX() {
